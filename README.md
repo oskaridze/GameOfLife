@@ -25,6 +25,6 @@ I was inspired by Bongo Cat(desktop companion) and tried to make Conway's Game O
   # Run the main.py file
   $ python3 main.py
 
-  # Of build project with pyinstaller by running
+  # Or build project with pyinstaller by running
   $ pyinstaller main.spec
 ```
