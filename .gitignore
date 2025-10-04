@@ -1,0 +1,6 @@
+view.py
+env/
+__pycache__/
+v*/
+*.spec
+mainAIedited.py
