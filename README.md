@@ -15,7 +15,7 @@ I was inspired by Bongo Cat(desktop companion) and tried to make Conway's Game O
   # Open project
   $ cd GameOfLife
 
-  # Install all requirements
+  # Install all the requirements
   $ pip install -r requirements.txt
 
   # Set screen coordinates in the main.py
